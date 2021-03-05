@@ -1,4 +1,4 @@
-package org.albertryu.springplayground.config;
+package org.albertryu.springplayground.config.websocket;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.CloseStatus;

@@ -1,4 +1,4 @@
-package org.albertryu.springplayground.config;
+package org.albertryu.springplayground.config.websocket;
 
 import java.io.IOException;
 import java.util.Map;

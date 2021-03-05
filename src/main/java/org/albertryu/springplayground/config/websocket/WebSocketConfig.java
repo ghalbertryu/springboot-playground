@@ -1,4 +1,4 @@
-package org.albertryu.springplayground.config;
+package org.albertryu.springplayground.config.websocket;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
