@@ -17,6 +17,8 @@ public class SettingController {
 
     @GetMapping("/priority")
     public HttpResult getPriorityMap() {
+        System.out.println(System.getProperty("prop1"));
+
         HttpResult<Map<String, String[]>> rs = new HttpResult<>(null);
         log.info(LogUtils.buildClassTag(this) + "getPriorityMap rs={}", rs);
         return rs;
